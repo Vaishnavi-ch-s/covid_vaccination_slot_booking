@@ -12,6 +12,6 @@ This is a terminal-based Python application to book and manage Covid-19 vaccinat
 - Command Line Interface (CLI)
 ## How to Run
 ```bash
-git clone https://github.com/Vaishnavi-ch-s/covid-vaccine-booking.git
-cd covid-vaccine-booking
-python3 covid_vaccine_booking.py
+git clone https://github.com/Vaishnavi-ch-s/covid_vaccination_slot_booking.git
+cd covid_vaccination_slot_booking
+python3 covid_vaccination_app.py
